@@ -1,0 +1,3 @@
+[submodule "Vasav/vendor/spdlog"]
+	path = Vasav/vendor/spdlog
+	url = https://github.com/gabime/spdlog
